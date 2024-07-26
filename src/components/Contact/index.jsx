@@ -30,7 +30,7 @@ export default function index() {
                     </span>
                     <h2>together</h2>
                     <motion.div style={{x}} className={styles.buttonContainer}>
-                        <Rounded  backgroundColor={"#334BD3"} className={styles.button}>
+                        <Rounded  backgroundColor={"#b8bbc9"} className={styles.button}>
                             <p>Get in touch</p>
                         </Rounded>
                     </motion.div>
@@ -40,21 +40,21 @@ export default function index() {
                 </div>
                 <div className={styles.nav}>
                         <Rounded>
-                            <p>info@dennissnellenberg.com</p>
+                            <p>dev.mazid@gmail.com</p>
                         </Rounded>
                         <Rounded>
-                            <p>+31 6 27 84 74 30</p>
+                            <p>+91 79 91 17 15 78</p>
                         </Rounded>
                 </div>
                 <div className={styles.info}>
                     <div>
                         <span>
                             <h3>Version</h3>
-                            <p>2022 © Edition</p>
+                            <p>2024 © Edition</p>
                         </span>
                         <span>
                             <h3>Version</h3>
-                            <p>11:49 PM GMT+2</p>
+                            <p>05:36 PM GMT+5</p>
                         </span>
                     </div>
                     <div>
@@ -66,9 +66,6 @@ export default function index() {
                         </span>
                         <Magnetic>
                             <p>Instagram</p>
-                        </Magnetic>
-                        <Magnetic>
-                            <p>Dribbble</p>
                         </Magnetic>
                         <Magnetic>
                             <p>Linkedin</p>
